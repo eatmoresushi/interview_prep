@@ -39,3 +39,6 @@ _site/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# venv
+venv/
